@@ -1,0 +1,24 @@
+{
+  "name": "matrix-stfu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stfu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwiki-labs/matrix-stfu.git"
+  },
+  "author": "",
+  "license": "LGPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/xwiki-labs/matrix-stfu/issues"
+  },
+  "homepage": "https://github.com/xwiki-labs/matrix-stfu#readme",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "matrix-js-sdk": "*",
+    "nthen": "^0.1.7"
+  }
+}
